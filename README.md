@@ -34,7 +34,7 @@ On the way to be a Full stack developer
 <!-- <a href="https://www.instagram.com/talha_tariq_tt/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
-<a href = "mailto: naveedamjad1620@gmail.com"></a>Send Email
+<a href = "mailto: naveedamjad1620@gmail.com">
     <img src="https://img.shields.io/badge/Email-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 </div>
