@@ -8,11 +8,12 @@
 <!---
 
 --->
-- 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/)
+<!-- - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/) -->
+On the way to be a Full stack developer
 
-- ✨ Hobbies: **Teaching, Book reading, Blogging**<br><br>
-- ✨ Hobbies: **Teaching, Book reading, Blogging, and Overthinking**<br><br>
-![Talha](https://komarev.com/ghpvc/?username=TT-talhatariq&style=flat-square)
+- ✨ Hobbies: **Teaching, Book reading, Personal Development ********<br><br>
+<!-- - ✨ Hobbies: **Teaching, Book reading, Blogging, and Overthinking**<br><br> -->
+<!-- ![Talha](https://komarev.com/ghpvc/?username=TT-talhatariq&style=flat-square) -->
 
 
 <div align="center">
@@ -29,16 +30,16 @@
 <!-- <a href="https://www.instagram.com/talha_tariq_tt/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
-<!-- <a href="https://talhatariq-tt.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a> -->
+<a href = "mailto: naveedamjad1620@gmail.com">Send Email</a>
+    <img src="https://img.shields.io/badge/Email-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 </div>
 <br><br>
     
 <details>
 <summary><big><strong>📈 Stats</big></summary>
     
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TT-talhatariq&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TT-talhatariq&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveed-Amjad&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-Amjad&layout=compact&theme=radical&custom_title=Most%20Used%20Languages%20In%20Repos&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 ---
 <!-- <details>
