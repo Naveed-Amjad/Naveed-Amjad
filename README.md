@@ -1,23 +1,22 @@
 <!-- - 👋 Hi, I’m @Naveed-Amjad
-- 👀 I’m interested in Web development. currently I'm working in MERN stack.
+- 👀 I’m interested in Web development. currently, I'm working in the MERN stack and ROR stack.
 - 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on web developemnt technologies.
+- 💞️ I’m looking to collaborate on web development technologies.
 - 📫 Ask me anything related to the technologies I'm working in, I will be more than happy to help.
--    You can reach me at email, naveedamjad1620@gmail.com or Linked https://www.linkedin.com/in/naveed-amjad-53897717b/.
+-    You can reach me email at, naveedamjad1620@gmail.com or Linked https://www.linkedin.com/in/naveed-amjad-53897717b/.
  -->
  <h1 align="center">Hi👋, Naveed Amjad is here!</h1>
-<h4 align="center">A Passionate <b>Programmer<b> having a learning oriented mind</h4>
+<h4 align="center">A Passionate <b>Programmer<b> having a learning-oriented mind</h4>
 <h3>About Me</h3>
-- 💻 Currently, I'm exploring and learning MERN Stack **Web Development** Technologies.
+- 💻 Currently, I'm working with MERN Stack and ROR **Web Development** Technologies.
 <!---
 
 --->
-<!-- - 📝 I'm regularly writing articles about Techonology & Personal Development on [Medium](https://talhatariq-tt.medium.com/) -->
-On the way to be a Full stack developer
+I am a Full stack developer who can write efficient code.
 
-- ✨ Hobbies: **Book reading, Exploring new things, Personal Development ********<br><br>
+- ✨ Hobbies: **Book reading, Teaching , PodCast listening, Exploring new things, Personal Development ********<br><br>
 <!-- - ✨ Hobbies: **Teaching, Book reading, Blogging, and Overthinking**<br><br> -->
-<!-- ![Talha](https://komarev.com/ghpvc/?username=TT-talhatariq&style=flat-square) -->
+
 
 
 <div align="center">
